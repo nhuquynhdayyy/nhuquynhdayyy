@@ -1,3 +1,44 @@
+## 🌟 About Me  
+
+Hello! I'm **Nhu Quynh**, a third-year student majoring in **Information Technology** at **Danang University of Science and Technology**.  
+I’m passionate about **Artificial Intelligence (AI)** and **Data Science**, with the goal of creating intelligent systems that connect people and technology in meaningful ways.  
+
+---
+
+### 🔭 Completed Projects  
+- 🎬 **Cinema Management Application (C++)** — applied object-oriented programming and file-based data management.  
+- 🧭 **Travel Location Search & Sharing System** — helps users easily discover and share travel experiences.  
+
+---
+
+### 🚀 Currently Working On  
+- 🤖 Developing a **Time Series Prediction Model (LSTM)** using **Python**.  
+- 🎥 Building a **Learning Engagement Tracking System** using **hand-raise detection and face recognition**, aimed at evaluating student interaction levels in classrooms.  
+
+---
+
+### 🌱 Currently Learning  
+- **Machine Learning, Deep Learning, and Computer Vision** with Python (OpenCV, TensorFlow, Keras).  
+- Core subjects such as **Operating Systems**, **Databases**, and **Data Analysis**.  
+- **Japanese (N3 level)** to expand opportunities in international work environments.  
+
+---
+
+### 🤝 Open To Collaborate On  
+- Projects related to **AI**, **data analysis**, or **intelligent prediction systems** with real-world applications.  
+
+---
+
+### 💬 Ask Me About  
+- **Python (NumPy, Pandas, TensorFlow, Keras)**  
+- **Data preprocessing**, **model training**, and **AI deployment**  
+
+---
+
+### ⚡ Fun Fact  
+I love turning plain numbers into meaningful stories through data 📈  
+
+---
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/bkdn23.quynh/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/nhuquynh_queen/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/bkdn23-quynh/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nguyennhuquynh11111990@gmail.com) 
