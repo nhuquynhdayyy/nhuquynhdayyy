@@ -20,7 +20,7 @@ I’m passionate about **Artificial Intelligence (AI)** and **Data Science**, wi
 ### 🌱 Currently Learning  
 - **Machine Learning, Deep Learning, and Computer Vision** with Python (OpenCV, TensorFlow, Keras).  
 - Core subjects such as **Operating Systems**, **Databases**, and **Data Analysis**.  
-- **Japanese (N3 level)** to expand opportunities in international work environments.  
+- **Japanese (N2 level)** to expand opportunities in international work environments.  
 
 ---
 
