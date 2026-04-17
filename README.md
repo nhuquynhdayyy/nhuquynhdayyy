@@ -1,7 +1,7 @@
 ## 🌟 About Me  
 
 Hello! I'm **Nhu Quynh**, a third-year student majoring in **Information Technology** at **Danang University of Science and Technology**.  
-I’m passionate about **Artificial Intelligence (AI)** and **Data Science**, with the goal of creating intelligent systems that connect people and technology in meaningful ways.  
+I’m passionate about **Data Science** and **Artificial Intelligence (AI)**, with the goal of creating intelligent systems that connect people and technology in meaningful ways.  
 
 ---
 
