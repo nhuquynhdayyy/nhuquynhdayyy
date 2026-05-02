@@ -14,7 +14,8 @@ I’m passionate about **Data Science** and **Artificial Intelligence (AI)**, wi
 ---
 
 ### 🚀 Currently Working On  
-
+- 🌳 **Urban Green Infrastructure Management System** — developing a scalable web-based platform for managing urban trees, maintenance schedules, GIS data, and environmental monitoring.  
+- 📅 **Calendar & Scheduling Application** — building a desktop application for appointment management, group meetings, reminders, and conflict detection using object-oriented design principles.  
 
 ---
 
