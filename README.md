@@ -7,13 +7,14 @@ I’m passionate about **Data Science** and **Artificial Intelligence (AI)**, wi
 
 ### 🔭 Completed Projects  
 - 🎬 **Cinema Management Application (C++)** — applied object-oriented programming and file-based data management.  
-- 🧭 **Travel Location Search & Sharing System** — helps users easily discover and share travel experiences.  
+- 🧭 **Travel Location Search & Sharing System** — helps users easily discover and share travel experiences.
+- 🤖 **Time Series Prediction Model (LSTM, Python)** — built and trained an LSTM-based deep learning model for time series forecasting and data analysis.
+- 🎥 **Learning Engagement Tracking System** — developed a classroom interaction monitoring system using hand-raise detection and face recognition to evaluate student engagement levels.
 
 ---
 
 ### 🚀 Currently Working On  
-- 🤖 Developing a **Time Series Prediction Model (LSTM)** using **Python**.  
-- 🎥 Building a **Learning Engagement Tracking System** using **hand-raise detection and face recognition**, aimed at evaluating student interaction levels in classrooms.  
+
 
 ---
 
