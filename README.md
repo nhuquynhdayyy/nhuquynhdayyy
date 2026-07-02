@@ -10,12 +10,12 @@ I’m passionate about **Data Science** and **Artificial Intelligence (AI)**, wi
 - 🧭 **Travel Location Search & Sharing System** — helps users easily discover and share travel experiences.
 - 🤖 **Time Series Prediction Model (LSTM, Python)** — built and trained an LSTM-based deep learning model for time series forecasting and data analysis.
 - 🎥 **Learning Engagement Tracking System** — developed a classroom interaction monitoring system using hand-raise detection and face recognition to evaluate student engagement levels.
+- 🌳 **Urban Green Infrastructure Management System** — developing a scalable web-based platform for managing urban trees, maintenance schedules, GIS data, and environmental monitoring.  
+- 📅 **Calendar & Scheduling Application** — building a desktop application for appointment management, group meetings, reminders, and conflict detection using object-oriented design principles.
 
 ---
 
 ### 🚀 Currently Working On  
-- 🌳 **Urban Green Infrastructure Management System** — developing a scalable web-based platform for managing urban trees, maintenance schedules, GIS data, and environmental monitoring.  
-- 📅 **Calendar & Scheduling Application** — building a desktop application for appointment management, group meetings, reminders, and conflict detection using object-oriented design principles.  
 
 ---
 
